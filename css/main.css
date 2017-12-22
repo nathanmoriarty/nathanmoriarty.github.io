@@ -23,6 +23,10 @@ amid {
     text-decoration: none;
     color: #333;
 }
+amid:hover {
+    text-decoration: none;
+    color: #333;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
