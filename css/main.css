@@ -17,15 +17,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: none;
-}
-amid {
-    text-decoration: none;
-    color: #333;
-}
-amid:hover {
-    text-decoration: none;
-    color: #333;
+    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
