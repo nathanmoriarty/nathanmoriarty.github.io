@@ -6,5 +6,5 @@ date: 2017-12-22
 
 tbc ...
 
-<iframe src="https://drive.google.com/file/d/1CHYGosjhsOaQxoZrRicq7wHlMKeFKh5S/preview" width="400" height="480", align="centre"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSNOjxgGieSGXCa9ifZz9N6_e664usz2xqAeKG2KhMGlUGZUWScDatDJkevhYECcD5nxooPPiBYUi5K/pub?embedded=true"></iframe>
 
