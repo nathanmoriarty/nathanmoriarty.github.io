@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "Pinching Hegelculture"
+title: "Pinching Hugelkultur"
 date: 2020-04-03
 ---
 
