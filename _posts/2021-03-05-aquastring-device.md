@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Aquever Device"
+title: "AquaString Device"
 date: 2021-03-05
 ---
 
