@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Power, Optimisation and Decisions"
+title: "Power Optimisation Decisions"
 date: 2023-06-22
 ---
 
